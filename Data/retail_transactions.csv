@@ -1,0 +1,501 @@
+Order ID,Order Date,Customer ID,Product,Category,Region,Country,Quantity,Sales
+ORD100001,08/17/2022,CUST1025,Bluetooth Speaker,Electronics,Asia,India,4,729.8
+ORD100002,07/29/2022,CUST1692,Bluetooth Speaker,Electronics,Oceania,Australia,1,474.44
+ORD100003,03/07/2022,CUST1030,Laptop Sleeve,Electronics,Europe,UK,1,406.76
+ORD100004,02/24/2022,CUST1574,Standing Desk,Furniture,Oceania,New Zealand,1,180.25
+ORD100005,07/24/2023,CUST1828,Pen Set,Office Supplies,North America,USA,4,2240.08
+ORD100006,11/28/2023,CUST1284,Office Chair,Furniture,Europe,Germany,4,345.04
+ORD100007,02/18/2024,CUST1099,Coffee Maker,Home,Asia,Japan,2,430.58
+ORD100008,03/30/2022,CUST1747,Jeans,Apparel,Oceania,Australia,3,2335.89
+ORD100009,02/15/2024,CUST1080,Running Shoes,Footwear,Asia,Japan,2,993.44
+ORD100010,01/11/2024,CUST1591,Standing Desk,Furniture,North America,USA,2,1061.4
+ORD100011,08/16/2023,CUST1081,Pen Set,Office Supplies,Europe,UK,3,921.6
+ORD100012,07/17/2024,CUST1650,Pen Set,Office Supplies,Asia,India,3,897.87
+ORD100013,03/06/2023,CUST1686,Water Bottle,Home,North America,Mexico,2,1019.62
+ORD100014,12/29/2024,CUST1746,Standing Desk,Furniture,Europe,Germany,1,306.67
+ORD100015,03/26/2023,CUST1701,Coffee Maker,Home,North America,USA,5,3291.65
+ORD100016,10/09/2023,CUST1410,Water Bottle,Home,North America,USA,3,2192.82
+ORD100017,10/07/2023,CUST1217,Smartphone Case,Electronics,South America,Argentina,2,1416.64
+ORD100018,07/28/2024,CUST1146,Water Bottle,Home,Europe,UK,3,1791.81
+ORD100019,06/23/2023,CUST1764,Dress Shoes,Footwear,South America,Chile,2,645.04
+ORD100020,03/26/2023,CUST1141,Running Shoes,Footwear,South America,Brazil,2,1211.7
+ORD100021,08/13/2022,CUST1156,Smartphone Case,Electronics,Europe,France,7,2384.34
+ORD100022,05/11/2022,CUST1394,T-shirt,Apparel,Oceania,New Zealand,2,851.3
+ORD100023,01/24/2022,CUST1696,Bluetooth Speaker,Electronics,North America,Mexico,2,1416.82
+ORD100024,07/01/2023,CUST1787,Smartphone Case,Electronics,Asia,India,3,714.99
+ORD100025,11/20/2022,CUST1464,Wireless Mouse,Electronics,Asia,Japan,2,1221.52
+ORD100026,11/05/2024,CUST1934,Laptop Sleeve,Electronics,Asia,Japan,1,408.59
+ORD100027,02/12/2023,CUST1156,Coffee Maker,Home,Europe,France,2,1526.06
+ORD100028,12/22/2024,CUST1940,Wireless Mouse,Electronics,Oceania,New Zealand,3,1180.32
+ORD100029,08/18/2022,CUST1951,Coffee Maker,Home,Asia,India,1,51.05
+ORD100030,06/11/2022,CUST1087,Bluetooth Speaker,Electronics,South America,Brazil,5,3912.5
+ORD100031,12/26/2024,CUST1784,Office Chair,Furniture,Europe,France,2,765.7
+ORD100032,12/05/2022,CUST1271,Running Shoes,Footwear,Oceania,New Zealand,4,3086.68
+ORD100033,02/16/2023,CUST1730,Water Bottle,Home,South America,Chile,2,1043.3
+ORD100034,06/16/2024,CUST1921,Running Shoes,Footwear,South America,Brazil,5,1010.4
+ORD100035,05/12/2022,CUST1346,Wireless Mouse,Electronics,Oceania,Australia,5,2364.05
+ORD100036,01/15/2022,CUST1072,Bluetooth Speaker,Electronics,North America,USA,3,175.74
+ORD100037,03/06/2022,CUST1880,Coffee Maker,Home,North America,Mexico,1,194.21
+ORD100038,09/21/2024,CUST1219,Running Shoes,Footwear,Europe,France,1,748.73
+ORD100039,08/26/2024,CUST1248,Notebook,Office Supplies,South America,Argentina,3,469.14
+ORD100040,07/18/2022,CUST1674,T-shirt,Apparel,Asia,China,3,995.49
+ORD100041,04/21/2022,CUST1689,Smartphone Case,Electronics,North America,USA,3,975.24
+ORD100042,11/26/2023,CUST1819,Pen Set,Office Supplies,North America,USA,2,314.62
+ORD100043,07/07/2024,CUST1143,T-shirt,Apparel,Europe,Germany,6,2236.74
+ORD100044,06/04/2022,CUST1453,Notebook,Office Supplies,Oceania,Australia,5,226.1
+ORD100045,01/31/2022,CUST1992,Laptop Sleeve,Electronics,Europe,UK,1,328.1
+ORD100046,09/12/2024,CUST1218,Pen Set,Office Supplies,South America,Brazil,2,271.78
+ORD100047,01/05/2022,CUST1399,Water Bottle,Home,South America,Argentina,3,1023.87
+ORD100048,09/23/2024,CUST1158,Standing Desk,Furniture,Asia,India,3,2325.36
+ORD100049,05/05/2022,CUST1765,Coffee Maker,Home,North America,USA,1,469.42
+ORD100050,10/26/2024,CUST1941,Pen Set,Office Supplies,Oceania,Australia,3,150.66
+ORD100051,11/06/2024,CUST1082,Pen Set,Office Supplies,Europe,UK,3,1434.15
+ORD100052,04/27/2023,CUST1413,Laptop Sleeve,Electronics,Oceania,Australia,4,1860.96
+ORD100053,03/23/2022,CUST1634,Laptop Sleeve,Electronics,South America,Chile,2,938.04
+ORD100054,12/06/2024,CUST1323,LED Lamp,Home,Asia,India,1,537.43
+ORD100055,10/06/2023,CUST1244,Water Bottle,Home,South America,Brazil,3,1616.97
+ORD100056,09/07/2023,CUST1468,Coffee Maker,Home,North America,USA,3,1108.02
+ORD100057,07/24/2022,CUST1075,Running Shoes,Footwear,Europe,France,1,215.83
+ORD100058,12/16/2023,CUST1902,Laptop Sleeve,Electronics,Europe,Germany,3,694.68
+ORD100059,06/16/2024,CUST1853,Running Shoes,Footwear,Asia,Japan,3,2361.48
+ORD100060,12/19/2024,CUST1008,Smartphone Case,Electronics,Oceania,New Zealand,4,2983.0
+ORD100061,08/01/2022,CUST1961,LED Lamp,Home,Europe,Germany,2,193.54
+ORD100062,08/08/2022,CUST1760,Running Shoes,Footwear,Europe,Germany,3,687.0
+ORD100063,03/08/2023,CUST1734,Coffee Maker,Home,Europe,France,1,509.22
+ORD100064,06/25/2023,CUST1517,Jeans,Apparel,Asia,India,3,235.14
+ORD100065,05/17/2024,CUST1849,Water Bottle,Home,North America,USA,2,540.36
+ORD100066,09/25/2022,CUST1652,Water Bottle,Home,Europe,France,2,712.52
+ORD100067,05/25/2024,CUST1574,Wireless Mouse,Electronics,North America,USA,4,3025.28
+ORD100068,11/02/2022,CUST1558,Wireless Mouse,Electronics,Asia,Japan,2,888.52
+ORD100069,05/30/2024,CUST1130,Wireless Mouse,Electronics,Asia,China,4,2878.76
+ORD100070,03/23/2022,CUST1920,Coffee Maker,Home,Europe,France,4,813.52
+ORD100071,07/30/2022,CUST1362,Notebook,Office Supplies,Oceania,New Zealand,1,779.2
+ORD100072,11/13/2022,CUST1947,LED Lamp,Home,Europe,UK,5,3905.4
+ORD100073,12/29/2022,CUST1902,T-shirt,Apparel,North America,USA,6,3543.42
+ORD100074,11/12/2023,CUST1801,LED Lamp,Home,South America,Chile,1,691.93
+ORD100075,05/24/2023,CUST1273,Office Chair,Furniture,North America,Canada,3,2095.11
+ORD100076,08/21/2024,CUST1227,Standing Desk,Furniture,South America,Argentina,1,247.63
+ORD100077,04/12/2023,CUST1228,Wireless Mouse,Electronics,Europe,Germany,2,531.94
+ORD100078,05/23/2022,CUST1990,Notebook,Office Supplies,Asia,China,1,514.98
+ORD100079,03/29/2024,CUST1695,Pen Set,Office Supplies,Oceania,New Zealand,4,3006.76
+ORD100080,08/25/2022,CUST1898,Water Bottle,Home,Europe,France,3,2310.63
+ORD100081,06/28/2023,CUST1039,Laptop Sleeve,Electronics,Oceania,New Zealand,5,1399.1
+ORD100082,10/05/2023,CUST1446,Dress Shoes,Footwear,Oceania,Australia,1,311.23
+ORD100083,01/25/2023,CUST1260,Wireless Mouse,Electronics,South America,Brazil,2,836.68
+ORD100084,02/08/2023,CUST1372,T-shirt,Apparel,North America,Mexico,3,2211.03
+ORD100085,10/05/2023,CUST1679,Pen Set,Office Supplies,North America,Mexico,5,3602.7
+ORD100086,11/04/2024,CUST1316,Smartphone Case,Electronics,South America,Argentina,2,649.82
+ORD100087,08/29/2023,CUST1567,Office Chair,Furniture,Europe,Germany,3,1600.86
+ORD100088,02/16/2024,CUST1693,Bluetooth Speaker,Electronics,Europe,France,2,914.88
+ORD100089,04/11/2024,CUST1561,Pen Set,Office Supplies,North America,Canada,5,1165.5
+ORD100090,05/30/2024,CUST1804,Dress Shoes,Footwear,Oceania,New Zealand,6,2248.02
+ORD100091,06/24/2024,CUST1691,Standing Desk,Furniture,Oceania,New Zealand,3,1908.06
+ORD100092,12/14/2022,CUST1674,Laptop Sleeve,Electronics,Asia,Japan,2,1065.52
+ORD100093,11/18/2023,CUST1095,Pen Set,Office Supplies,Europe,France,4,1007.12
+ORD100094,02/12/2023,CUST1150,Wireless Mouse,Electronics,North America,USA,3,2361.69
+ORD100095,05/30/2022,CUST1466,T-shirt,Apparel,Oceania,Australia,5,2880.45
+ORD100096,02/26/2024,CUST1506,T-shirt,Apparel,Europe,UK,2,1053.14
+ORD100097,01/12/2022,CUST1914,Notebook,Office Supplies,North America,Canada,6,1073.88
+ORD100098,11/26/2024,CUST1475,Wireless Mouse,Electronics,Oceania,Australia,6,4406.34
+ORD100099,09/06/2022,CUST1467,Office Chair,Furniture,South America,Chile,2,854.5
+ORD100100,10/12/2023,CUST1972,Notebook,Office Supplies,South America,Chile,2,1305.86
+ORD100101,10/30/2024,CUST1436,Pen Set,Office Supplies,Oceania,New Zealand,3,2154.84
+ORD100102,08/30/2024,CUST1460,Water Bottle,Home,Europe,France,2,450.92
+ORD100103,12/03/2024,CUST1496,Smartphone Case,Electronics,Europe,Germany,1,354.7
+ORD100104,08/09/2023,CUST1240,Water Bottle,Home,Asia,China,3,2144.88
+ORD100105,06/15/2022,CUST1141,Office Chair,Furniture,Europe,Germany,3,1670.07
+ORD100106,03/15/2023,CUST1065,T-shirt,Apparel,South America,Argentina,2,872.76
+ORD100107,05/01/2024,CUST1063,Standing Desk,Furniture,South America,Argentina,1,724.35
+ORD100108,02/10/2022,CUST1877,LED Lamp,Home,Oceania,New Zealand,4,1536.8
+ORD100109,12/22/2023,CUST1305,Notebook,Office Supplies,South America,Argentina,3,1298.67
+ORD100110,03/28/2023,CUST1499,Standing Desk,Furniture,Asia,China,3,1173.27
+ORD100111,03/07/2024,CUST1344,Smartphone Case,Electronics,South America,Chile,1,136.21
+ORD100112,08/15/2024,CUST1941,Office Chair,Furniture,Oceania,Australia,1,726.01
+ORD100113,02/25/2022,CUST1085,Smartphone Case,Electronics,South America,Brazil,5,3470.75
+ORD100114,01/08/2023,CUST1051,Water Bottle,Home,South America,Argentina,1,173.27
+ORD100115,11/01/2023,CUST1345,Notebook,Office Supplies,South America,Argentina,2,1205.7
+ORD100116,05/13/2024,CUST1258,Pen Set,Office Supplies,North America,Canada,3,61.23
+ORD100117,04/17/2022,CUST1974,Coffee Maker,Home,Europe,France,5,297.75
+ORD100118,03/24/2022,CUST1772,Wireless Mouse,Electronics,Europe,UK,2,1344.38
+ORD100119,11/09/2022,CUST1244,Office Chair,Furniture,South America,Chile,2,191.88
+ORD100120,03/23/2023,CUST1476,Bluetooth Speaker,Electronics,Asia,China,1,138.39
+ORD100121,08/23/2022,CUST1796,Pen Set,Office Supplies,Europe,Germany,1,90.94
+ORD100122,02/22/2022,CUST1951,Water Bottle,Home,Oceania,New Zealand,1,320.34
+ORD100123,02/11/2023,CUST1077,Dress Shoes,Footwear,Europe,UK,4,2237.08
+ORD100124,09/10/2023,CUST1870,Smartphone Case,Electronics,Oceania,Australia,3,1914.0
+ORD100125,03/26/2022,CUST1355,Running Shoes,Footwear,South America,Chile,3,898.8
+ORD100126,11/02/2024,CUST1663,Coffee Maker,Home,North America,Canada,2,1317.5
+ORD100127,08/05/2022,CUST1443,Coffee Maker,Home,South America,Chile,3,379.89
+ORD100128,12/27/2022,CUST1751,Running Shoes,Footwear,Asia,Japan,3,1942.56
+ORD100129,09/17/2024,CUST1476,T-shirt,Apparel,Oceania,New Zealand,1,261.23
+ORD100130,05/18/2023,CUST1850,LED Lamp,Home,North America,Canada,2,1411.8
+ORD100131,05/15/2023,CUST1768,Jeans,Apparel,Oceania,New Zealand,4,1089.76
+ORD100132,10/09/2024,CUST1871,Coffee Maker,Home,Europe,Germany,3,520.92
+ORD100133,06/14/2023,CUST1348,Water Bottle,Home,Oceania,New Zealand,5,2234.25
+ORD100134,11/24/2024,CUST1970,Standing Desk,Furniture,North America,USA,1,577.46
+ORD100135,09/27/2024,CUST1568,Notebook,Office Supplies,Europe,France,1,383.49
+ORD100136,10/02/2024,CUST1458,Notebook,Office Supplies,North America,USA,1,238.92
+ORD100137,04/08/2024,CUST1708,Standing Desk,Furniture,Asia,Japan,1,467.34
+ORD100138,08/27/2024,CUST1566,Running Shoes,Footwear,Asia,China,2,1594.64
+ORD100139,11/09/2023,CUST1360,Bluetooth Speaker,Electronics,South America,Argentina,3,746.31
+ORD100140,04/18/2023,CUST1123,Bluetooth Speaker,Electronics,Europe,Germany,3,300.15
+ORD100141,01/15/2023,CUST1196,Standing Desk,Furniture,South America,Argentina,6,3486.3
+ORD100142,12/10/2024,CUST1611,Water Bottle,Home,North America,USA,2,481.04
+ORD100143,01/10/2024,CUST1183,Water Bottle,Home,North America,Mexico,4,1718.56
+ORD100144,07/16/2023,CUST1046,Wireless Mouse,Electronics,Oceania,New Zealand,5,2797.25
+ORD100145,09/16/2022,CUST1653,Pen Set,Office Supplies,South America,Brazil,3,2096.43
+ORD100146,08/06/2023,CUST1480,Jeans,Apparel,South America,Argentina,4,606.28
+ORD100147,04/16/2022,CUST1258,Pen Set,Office Supplies,South America,Brazil,3,1975.74
+ORD100148,03/31/2024,CUST1503,Laptop Sleeve,Electronics,Oceania,Australia,2,251.24
+ORD100149,09/15/2023,CUST1087,Standing Desk,Furniture,North America,Mexico,5,3063.65
+ORD100150,04/08/2023,CUST1794,Running Shoes,Footwear,South America,Argentina,2,1454.52
+ORD100151,09/01/2023,CUST1880,Dress Shoes,Footwear,South America,Argentina,4,1828.24
+ORD100152,05/04/2022,CUST1624,Bluetooth Speaker,Electronics,North America,USA,2,1004.56
+ORD100153,06/26/2023,CUST1676,Laptop Sleeve,Electronics,Europe,UK,2,286.36
+ORD100154,06/03/2022,CUST1160,Wireless Mouse,Electronics,South America,Argentina,4,2212.2
+ORD100155,08/20/2024,CUST1298,Wireless Mouse,Electronics,Europe,Germany,1,567.03
+ORD100156,07/18/2024,CUST1072,Smartphone Case,Electronics,Europe,Germany,1,631.32
+ORD100157,02/10/2023,CUST1435,Laptop Sleeve,Electronics,Oceania,Australia,3,1559.61
+ORD100158,06/29/2023,CUST1846,Office Chair,Furniture,North America,USA,1,136.91
+ORD100159,09/22/2023,CUST1609,Bluetooth Speaker,Electronics,Oceania,New Zealand,2,708.26
+ORD100160,08/17/2024,CUST1705,Water Bottle,Home,South America,Argentina,3,1208.64
+ORD100161,10/08/2024,CUST1448,Laptop Sleeve,Electronics,Oceania,Australia,1,712.09
+ORD100162,10/23/2023,CUST1618,Water Bottle,Home,North America,USA,3,560.97
+ORD100163,02/12/2022,CUST1783,Smartphone Case,Electronics,Asia,Japan,6,221.88
+ORD100164,12/25/2022,CUST1481,Running Shoes,Footwear,South America,Argentina,5,746.4
+ORD100165,06/11/2024,CUST1650,Pen Set,Office Supplies,South America,Brazil,2,757.32
+ORD100166,04/16/2024,CUST1341,Coffee Maker,Home,North America,USA,2,534.38
+ORD100167,10/11/2024,CUST1295,Smartphone Case,Electronics,South America,Chile,1,34.17
+ORD100168,06/30/2022,CUST1322,Water Bottle,Home,Asia,India,1,776.3
+ORD100169,04/07/2024,CUST1885,Running Shoes,Footwear,North America,Mexico,5,3480.75
+ORD100170,08/04/2024,CUST1423,Wireless Mouse,Electronics,Europe,France,3,877.83
+ORD100171,10/17/2024,CUST1640,Jeans,Apparel,North America,USA,2,434.62
+ORD100172,09/26/2022,CUST1949,Water Bottle,Home,South America,Chile,2,780.7
+ORD100173,03/01/2022,CUST1996,Smartphone Case,Electronics,Oceania,Australia,4,2277.12
+ORD100174,09/29/2023,CUST1564,Wireless Mouse,Electronics,Oceania,New Zealand,5,395.5
+ORD100175,08/21/2022,CUST1472,Laptop Sleeve,Electronics,Europe,Germany,4,2985.84
+ORD100176,08/21/2023,CUST1521,Bluetooth Speaker,Electronics,Asia,China,1,668.61
+ORD100177,08/25/2024,CUST1249,Jeans,Apparel,Oceania,Australia,4,1239.8
+ORD100178,11/06/2024,CUST1764,LED Lamp,Home,Europe,UK,3,673.86
+ORD100179,04/29/2024,CUST1348,LED Lamp,Home,Oceania,New Zealand,2,1314.68
+ORD100180,08/03/2023,CUST1743,Water Bottle,Home,Oceania,New Zealand,2,1385.76
+ORD100181,07/03/2024,CUST1551,Jeans,Apparel,Asia,China,5,2218.85
+ORD100182,02/12/2024,CUST1466,LED Lamp,Home,Asia,India,3,2354.16
+ORD100183,05/05/2023,CUST1585,T-shirt,Apparel,Europe,Germany,6,238.2
+ORD100184,08/26/2024,CUST1722,LED Lamp,Home,South America,Argentina,3,2372.37
+ORD100185,11/08/2022,CUST1507,Wireless Mouse,Electronics,Europe,France,1,772.46
+ORD100186,11/11/2023,CUST1890,Laptop Sleeve,Electronics,South America,Brazil,4,1692.52
+ORD100187,07/24/2024,CUST1015,Bluetooth Speaker,Electronics,Europe,Germany,5,3486.95
+ORD100188,11/13/2022,CUST1076,Jeans,Apparel,Asia,China,3,1501.47
+ORD100189,03/25/2024,CUST1665,Laptop Sleeve,Electronics,Asia,Japan,1,688.18
+ORD100190,02/18/2024,CUST1977,Coffee Maker,Home,South America,Chile,9,301.86
+ORD100191,05/21/2022,CUST1240,Smartphone Case,Electronics,Asia,India,2,1197.36
+ORD100192,06/07/2024,CUST1100,Notebook,Office Supplies,North America,Canada,3,411.78
+ORD100193,09/06/2023,CUST1925,Wireless Mouse,Electronics,North America,Canada,3,1913.79
+ORD100194,08/24/2023,CUST1367,Coffee Maker,Home,South America,Brazil,1,199.14
+ORD100195,04/23/2024,CUST1579,Smartphone Case,Electronics,Europe,UK,4,576.72
+ORD100196,02/23/2024,CUST1634,Smartphone Case,Electronics,Europe,Germany,5,3653.5
+ORD100197,10/21/2022,CUST1237,Jeans,Apparel,Asia,China,1,207.98
+ORD100198,01/20/2022,CUST1920,Notebook,Office Supplies,South America,Argentina,1,543.7
+ORD100199,11/20/2022,CUST1075,Jeans,Apparel,Asia,Japan,4,971.32
+ORD100200,05/18/2024,CUST1706,Water Bottle,Home,South America,Argentina,1,163.38
+ORD100201,02/27/2024,CUST1873,Jeans,Apparel,North America,USA,1,308.18
+ORD100202,01/06/2024,CUST1588,Water Bottle,Home,Asia,India,3,2347.41
+ORD100203,03/21/2024,CUST1281,Wireless Mouse,Electronics,Oceania,Australia,3,2186.82
+ORD100204,10/14/2024,CUST1852,LED Lamp,Home,Asia,India,3,1462.86
+ORD100205,12/23/2023,CUST1224,Smartphone Case,Electronics,Europe,France,4,817.0
+ORD100206,10/08/2022,CUST1643,Laptop Sleeve,Electronics,North America,Canada,3,1895.85
+ORD100207,03/10/2022,CUST1593,Coffee Maker,Home,Europe,UK,4,2912.6
+ORD100208,11/01/2023,CUST1765,T-shirt,Apparel,Europe,UK,2,220.14
+ORD100209,01/20/2024,CUST1543,Running Shoes,Footwear,Asia,India,1,209.29
+ORD100210,09/13/2024,CUST1990,Notebook,Office Supplies,Asia,Japan,1,696.97
+ORD100211,08/24/2022,CUST1479,Laptop Sleeve,Electronics,Europe,UK,1,688.81
+ORD100212,03/24/2024,CUST1990,Pen Set,Office Supplies,Oceania,New Zealand,1,76.79
+ORD100213,03/19/2024,CUST1014,Water Bottle,Home,Oceania,Australia,1,366.55
+ORD100214,06/21/2023,CUST1598,T-shirt,Apparel,Asia,India,2,1083.0
+ORD100215,08/23/2024,CUST1025,Dress Shoes,Footwear,Oceania,New Zealand,3,2197.89
+ORD100216,03/30/2023,CUST1663,Laptop Sleeve,Electronics,South America,Chile,2,490.48
+ORD100217,04/16/2024,CUST1119,Office Chair,Furniture,North America,USA,2,493.94
+ORD100218,10/05/2024,CUST1118,Laptop Sleeve,Electronics,Europe,France,2,225.7
+ORD100219,07/18/2024,CUST1379,Smartphone Case,Electronics,Oceania,New Zealand,2,943.88
+ORD100220,11/13/2022,CUST1906,T-shirt,Apparel,North America,Canada,1,494.44
+ORD100221,07/27/2023,CUST1033,Bluetooth Speaker,Electronics,Asia,India,2,714.98
+ORD100222,04/29/2023,CUST1875,Coffee Maker,Home,North America,Mexico,3,891.09
+ORD100223,01/05/2024,CUST1062,T-shirt,Apparel,Asia,India,1,774.72
+ORD100224,07/20/2024,CUST1093,Smartphone Case,Electronics,Europe,France,3,1540.2
+ORD100225,02/13/2022,CUST1051,Notebook,Office Supplies,Asia,India,3,2373.33
+ORD100226,02/25/2023,CUST1070,Pen Set,Office Supplies,Oceania,Australia,4,1884.68
+ORD100227,04/23/2023,CUST1336,Notebook,Office Supplies,Europe,France,2,14.5
+ORD100228,10/24/2022,CUST1133,Running Shoes,Footwear,Asia,India,3,277.17
+ORD100229,02/22/2022,CUST1134,Wireless Mouse,Electronics,Asia,India,3,1419.42
+ORD100230,02/02/2022,CUST1178,Water Bottle,Home,North America,USA,3,1784.01
+ORD100231,12/13/2024,CUST1116,Bluetooth Speaker,Electronics,North America,Canada,3,1084.14
+ORD100232,01/12/2024,CUST1525,Dress Shoes,Footwear,North America,Canada,3,1216.65
+ORD100233,03/30/2022,CUST1744,Notebook,Office Supplies,Oceania,New Zealand,2,738.28
+ORD100234,03/05/2022,CUST1062,Jeans,Apparel,South America,Argentina,1,550.45
+ORD100235,10/01/2024,CUST1729,LED Lamp,Home,South America,Brazil,2,1439.84
+ORD100236,10/22/2023,CUST1622,Office Chair,Furniture,North America,USA,2,447.28
+ORD100237,10/28/2023,CUST1390,Dress Shoes,Footwear,Oceania,New Zealand,5,1828.5
+ORD100238,05/31/2024,CUST1101,Notebook,Office Supplies,North America,Mexico,1,522.48
+ORD100239,03/17/2023,CUST1440,Jeans,Apparel,Europe,Germany,4,1097.8
+ORD100240,07/17/2024,CUST1408,T-shirt,Apparel,North America,Canada,1,344.28
+ORD100241,06/07/2023,CUST1383,Office Chair,Furniture,South America,Brazil,2,155.04
+ORD100242,06/24/2022,CUST1095,T-shirt,Apparel,North America,Mexico,3,1777.02
+ORD100243,09/24/2022,CUST1569,Wireless Mouse,Electronics,Oceania,New Zealand,3,1612.98
+ORD100244,04/21/2024,CUST1362,Pen Set,Office Supplies,South America,Chile,1,45.9
+ORD100245,08/13/2023,CUST1614,Water Bottle,Home,Asia,India,1,464.45
+ORD100246,03/12/2023,CUST1158,Smartphone Case,Electronics,South America,Brazil,2,1357.16
+ORD100247,12/19/2023,CUST1865,Running Shoes,Footwear,Asia,India,2,1222.54
+ORD100248,04/09/2023,CUST1826,T-shirt,Apparel,Oceania,Australia,2,978.3
+ORD100249,07/02/2023,CUST1029,Office Chair,Furniture,Asia,Japan,1,611.12
+ORD100250,11/27/2023,CUST1359,Wireless Mouse,Electronics,Europe,UK,4,1820.92
+ORD100251,03/31/2024,CUST1071,Office Chair,Furniture,North America,USA,5,2990.8
+ORD100252,03/17/2023,CUST1385,T-shirt,Apparel,South America,Argentina,2,260.28
+ORD100253,10/01/2023,CUST1738,Coffee Maker,Home,Oceania,Australia,4,2829.04
+ORD100254,11/15/2022,CUST1161,Notebook,Office Supplies,Oceania,Australia,2,1081.62
+ORD100255,07/12/2023,CUST1453,Smartphone Case,Electronics,South America,Argentina,2,975.26
+ORD100256,04/28/2024,CUST1279,Standing Desk,Furniture,Oceania,Australia,2,558.82
+ORD100257,08/16/2022,CUST1290,Smartphone Case,Electronics,Oceania,New Zealand,1,423.91
+ORD100258,09/24/2023,CUST1046,Standing Desk,Furniture,South America,Chile,3,145.65
+ORD100259,02/23/2023,CUST1308,Standing Desk,Furniture,Europe,Germany,1,235.11
+ORD100260,09/03/2022,CUST1007,Jeans,Apparel,South America,Brazil,3,323.1
+ORD100261,12/26/2024,CUST1720,Standing Desk,Furniture,Oceania,New Zealand,2,124.6
+ORD100262,03/28/2022,CUST1446,Wireless Mouse,Electronics,South America,Brazil,1,690.38
+ORD100263,05/29/2024,CUST1587,T-shirt,Apparel,South America,Argentina,4,386.24
+ORD100264,02/12/2022,CUST1989,Coffee Maker,Home,Europe,France,4,1483.12
+ORD100265,01/12/2024,CUST1090,T-shirt,Apparel,North America,USA,2,702.72
+ORD100266,03/31/2024,CUST1536,Laptop Sleeve,Electronics,South America,Argentina,4,2391.64
+ORD100267,03/30/2023,CUST1341,Notebook,Office Supplies,Europe,UK,3,1232.49
+ORD100268,08/22/2022,CUST1543,Running Shoes,Footwear,Europe,Germany,1,284.12
+ORD100269,10/30/2022,CUST1241,Laptop Sleeve,Electronics,Europe,Germany,4,647.32
+ORD100270,11/10/2022,CUST1778,Notebook,Office Supplies,North America,USA,2,1522.56
+ORD100271,10/08/2024,CUST1475,Notebook,Office Supplies,Oceania,New Zealand,1,546.5
+ORD100272,10/24/2023,CUST1884,Smartphone Case,Electronics,Asia,India,1,354.61
+ORD100273,08/18/2024,CUST1452,Smartphone Case,Electronics,Asia,China,4,1900.72
+ORD100274,12/22/2023,CUST1519,Laptop Sleeve,Electronics,Asia,China,4,1457.08
+ORD100275,04/27/2022,CUST1377,Pen Set,Office Supplies,Asia,India,3,1552.53
+ORD100276,07/04/2022,CUST1629,Dress Shoes,Footwear,Oceania,New Zealand,3,1118.58
+ORD100277,03/26/2022,CUST1460,LED Lamp,Home,Oceania,Australia,5,1303.05
+ORD100278,09/01/2024,CUST1513,Office Chair,Furniture,North America,Canada,1,87.28
+ORD100279,12/05/2023,CUST1731,Laptop Sleeve,Electronics,Oceania,Australia,4,144.48
+ORD100280,06/15/2024,CUST1449,Running Shoes,Footwear,Oceania,Australia,6,1765.8
+ORD100281,08/03/2023,CUST1396,T-shirt,Apparel,Asia,Japan,2,960.64
+ORD100282,11/17/2023,CUST1067,Coffee Maker,Home,North America,Mexico,2,1088.62
+ORD100283,08/05/2023,CUST1258,Bluetooth Speaker,Electronics,Oceania,Australia,4,1080.08
+ORD100284,10/17/2022,CUST1938,Coffee Maker,Home,Asia,Japan,2,1120.58
+ORD100285,03/13/2024,CUST1132,Dress Shoes,Footwear,North America,Canada,2,898.68
+ORD100286,11/04/2023,CUST1832,Office Chair,Furniture,Oceania,Australia,3,1555.77
+ORD100287,05/17/2024,CUST1520,Coffee Maker,Home,North America,Canada,3,751.65
+ORD100288,03/15/2023,CUST1349,Notebook,Office Supplies,South America,Brazil,4,740.4
+ORD100289,10/09/2022,CUST1158,Laptop Sleeve,Electronics,Asia,India,2,817.22
+ORD100290,12/14/2024,CUST1038,Smartphone Case,Electronics,Asia,Japan,4,436.72
+ORD100291,02/11/2024,CUST1157,Office Chair,Furniture,Europe,France,2,1236.04
+ORD100292,12/06/2022,CUST1738,Jeans,Apparel,North America,Canada,4,1178.48
+ORD100293,05/02/2023,CUST1992,Jeans,Apparel,Oceania,New Zealand,7,4222.05
+ORD100294,07/08/2024,CUST1239,Running Shoes,Footwear,Europe,Germany,3,2317.95
+ORD100295,08/18/2024,CUST1925,Pen Set,Office Supplies,Europe,Germany,5,2721.25
+ORD100296,06/21/2024,CUST1472,Notebook,Office Supplies,Asia,China,3,1214.43
+ORD100297,05/07/2024,CUST1989,Office Chair,Furniture,Europe,France,5,575.15
+ORD100298,05/28/2023,CUST1053,Smartphone Case,Electronics,South America,Argentina,1,445.86
+ORD100299,07/30/2022,CUST1728,Pen Set,Office Supplies,Oceania,Australia,3,694.89
+ORD100300,11/25/2022,CUST1279,Jeans,Apparel,Oceania,Australia,2,1331.36
+ORD100301,07/07/2022,CUST1969,LED Lamp,Home,Europe,Germany,4,2833.12
+ORD100302,02/24/2022,CUST1424,Wireless Mouse,Electronics,South America,Chile,3,906.9
+ORD100303,03/01/2024,CUST1083,Coffee Maker,Home,Europe,UK,2,516.7
+ORD100304,07/22/2022,CUST1859,Bluetooth Speaker,Electronics,Asia,India,2,228.78
+ORD100305,08/11/2023,CUST1939,Pen Set,Office Supplies,South America,Chile,3,1997.19
+ORD100306,08/18/2024,CUST1459,Dress Shoes,Footwear,North America,USA,3,60.33
+ORD100307,03/18/2023,CUST1855,Office Chair,Furniture,Oceania,New Zealand,2,186.78
+ORD100308,08/14/2023,CUST1243,Water Bottle,Home,North America,USA,2,389.12
+ORD100309,07/25/2024,CUST1064,Laptop Sleeve,Electronics,South America,Chile,2,862.32
+ORD100310,11/21/2024,CUST1588,Standing Desk,Furniture,Europe,Germany,4,1384.96
+ORD100311,12/24/2023,CUST1246,Dress Shoes,Footwear,South America,Brazil,2,1066.36
+ORD100312,06/25/2022,CUST1536,Coffee Maker,Home,North America,Mexico,3,1312.65
+ORD100313,11/05/2024,CUST1567,Wireless Mouse,Electronics,South America,Argentina,1,39.61
+ORD100314,03/03/2024,CUST1382,Water Bottle,Home,North America,Canada,3,1895.61
+ORD100315,12/08/2023,CUST1246,Bluetooth Speaker,Electronics,North America,Mexico,4,2357.88
+ORD100316,11/12/2023,CUST1136,Wireless Mouse,Electronics,Asia,Japan,3,822.45
+ORD100317,12/25/2022,CUST1850,Notebook,Office Supplies,South America,Chile,2,770.86
+ORD100318,01/09/2023,CUST1830,Office Chair,Furniture,North America,Mexico,3,1866.21
+ORD100319,07/26/2024,CUST1037,Water Bottle,Home,Europe,UK,3,1901.79
+ORD100320,03/27/2022,CUST1323,LED Lamp,Home,Asia,Japan,1,321.59
+ORD100321,08/27/2024,CUST1259,Wireless Mouse,Electronics,Europe,Germany,3,866.37
+ORD100322,04/08/2022,CUST1886,Smartphone Case,Electronics,Asia,China,2,207.92
+ORD100323,01/24/2024,CUST1447,LED Lamp,Home,South America,Chile,2,709.18
+ORD100324,03/02/2024,CUST1347,Office Chair,Furniture,South America,Chile,1,400.53
+ORD100325,11/29/2024,CUST1273,Notebook,Office Supplies,North America,Mexico,2,684.96
+ORD100326,05/31/2024,CUST1616,Pen Set,Office Supplies,Europe,France,2,477.08
+ORD100327,07/30/2022,CUST1081,Coffee Maker,Home,Asia,China,1,359.5
+ORD100328,05/22/2024,CUST1170,Bluetooth Speaker,Electronics,South America,Argentina,3,1081.41
+ORD100329,12/24/2023,CUST1629,T-shirt,Apparel,Asia,Japan,4,3136.48
+ORD100330,04/28/2022,CUST1076,Smartphone Case,Electronics,South America,Argentina,3,1238.7
+ORD100331,11/24/2022,CUST1975,Wireless Mouse,Electronics,Europe,France,1,544.08
+ORD100332,06/16/2024,CUST1035,Office Chair,Furniture,North America,USA,2,1247.84
+ORD100333,01/21/2024,CUST1370,T-shirt,Apparel,Oceania,Australia,2,972.1
+ORD100334,07/10/2024,CUST1971,Coffee Maker,Home,Asia,China,4,2446.6
+ORD100335,10/09/2022,CUST1542,Coffee Maker,Home,South America,Argentina,2,1042.8
+ORD100336,05/27/2023,CUST1983,Laptop Sleeve,Electronics,North America,Mexico,2,305.82
+ORD100337,11/26/2024,CUST1396,LED Lamp,Home,Oceania,Australia,3,639.33
+ORD100338,06/18/2023,CUST1720,Jeans,Apparel,Europe,France,2,464.06
+ORD100339,10/02/2024,CUST1204,Laptop Sleeve,Electronics,Europe,UK,3,1093.11
+ORD100340,06/30/2024,CUST1089,Notebook,Office Supplies,Asia,Japan,5,1406.0
+ORD100341,05/13/2022,CUST1563,Running Shoes,Footwear,Asia,China,1,681.83
+ORD100342,12/23/2022,CUST1812,Coffee Maker,Home,Oceania,Australia,2,202.96
+ORD100343,02/16/2023,CUST1811,Office Chair,Furniture,Europe,Germany,2,51.8
+ORD100344,01/26/2024,CUST1478,Notebook,Office Supplies,Oceania,Australia,1,491.5
+ORD100345,06/26/2022,CUST1067,Water Bottle,Home,South America,Chile,4,2306.0
+ORD100346,12/12/2024,CUST1420,Notebook,Office Supplies,South America,Chile,2,127.26
+ORD100347,10/12/2023,CUST1657,Laptop Sleeve,Electronics,South America,Argentina,2,1091.38
+ORD100348,12/07/2023,CUST1131,LED Lamp,Home,Oceania,Australia,2,1230.78
+ORD100349,09/22/2022,CUST1443,Running Shoes,Footwear,North America,USA,4,1667.56
+ORD100350,09/15/2023,CUST1168,Office Chair,Furniture,Asia,Japan,1,184.25
+ORD100351,11/28/2024,CUST1916,Water Bottle,Home,North America,Canada,1,161.06
+ORD100352,07/17/2023,CUST1128,Smartphone Case,Electronics,Asia,Japan,6,2574.72
+ORD100353,10/26/2024,CUST1656,Office Chair,Furniture,Oceania,Australia,3,423.3
+ORD100354,11/23/2023,CUST1862,LED Lamp,Home,Oceania,Australia,2,1322.12
+ORD100355,02/28/2022,CUST1083,Wireless Mouse,Electronics,Oceania,New Zealand,2,1045.3
+ORD100356,05/03/2024,CUST1632,Smartphone Case,Electronics,North America,Canada,1,711.75
+ORD100357,08/17/2023,CUST1657,Water Bottle,Home,South America,Brazil,2,1289.46
+ORD100358,04/11/2024,CUST1304,Jeans,Apparel,North America,Mexico,2,105.26
+ORD100359,06/19/2024,CUST1425,Jeans,Apparel,South America,Brazil,3,826.35
+ORD100360,10/22/2022,CUST1320,Pen Set,Office Supplies,Asia,Japan,5,3952.4
+ORD100361,12/09/2023,CUST1998,T-shirt,Apparel,Europe,Germany,2,828.82
+ORD100362,08/06/2022,CUST1326,Standing Desk,Furniture,South America,Brazil,2,435.28
+ORD100363,05/23/2023,CUST1144,Laptop Sleeve,Electronics,North America,Canada,1,756.58
+ORD100364,05/06/2024,CUST1254,Pen Set,Office Supplies,Europe,Germany,3,2241.99
+ORD100365,10/03/2023,CUST1194,Notebook,Office Supplies,Europe,Germany,2,1593.6
+ORD100366,08/14/2024,CUST1510,LED Lamp,Home,Asia,China,1,23.43
+ORD100367,03/16/2024,CUST1517,Jeans,Apparel,Europe,UK,4,1875.04
+ORD100368,04/10/2022,CUST1051,Water Bottle,Home,South America,Chile,3,2119.38
+ORD100369,08/21/2024,CUST1292,Running Shoes,Footwear,North America,USA,3,1042.77
+ORD100370,06/26/2023,CUST1744,Coffee Maker,Home,South America,Argentina,2,81.94
+ORD100371,04/15/2022,CUST1583,Running Shoes,Footwear,Europe,Germany,2,889.62
+ORD100372,05/31/2022,CUST1395,Running Shoes,Footwear,South America,Chile,3,682.14
+ORD100373,09/01/2022,CUST1131,Laptop Sleeve,Electronics,South America,Argentina,6,3821.64
+ORD100374,11/26/2023,CUST1571,Coffee Maker,Home,Europe,UK,3,1451.88
+ORD100375,04/02/2024,CUST1512,Wireless Mouse,Electronics,North America,USA,4,455.76
+ORD100376,11/14/2023,CUST1823,Jeans,Apparel,Oceania,New Zealand,3,370.23
+ORD100377,11/21/2024,CUST1143,Coffee Maker,Home,Oceania,New Zealand,3,402.57
+ORD100378,09/05/2023,CUST1607,Coffee Maker,Home,Oceania,New Zealand,6,3410.7
+ORD100379,09/06/2023,CUST1486,Pen Set,Office Supplies,North America,Canada,5,1341.7
+ORD100380,08/13/2022,CUST1426,Dress Shoes,Footwear,Asia,Japan,2,1396.64
+ORD100381,02/24/2022,CUST1611,Jeans,Apparel,Asia,Japan,1,627.41
+ORD100382,04/12/2023,CUST1738,Wireless Mouse,Electronics,Oceania,New Zealand,1,140.56
+ORD100383,02/18/2024,CUST1151,Pen Set,Office Supplies,Europe,UK,4,1840.76
+ORD100384,08/14/2022,CUST1195,Wireless Mouse,Electronics,South America,Argentina,3,1013.79
+ORD100385,04/25/2024,CUST1707,Standing Desk,Furniture,South America,Chile,4,2484.4
+ORD100386,08/23/2024,CUST1893,Pen Set,Office Supplies,North America,Mexico,2,229.56
+ORD100387,03/01/2023,CUST1574,Coffee Maker,Home,South America,Chile,2,609.16
+ORD100388,12/21/2022,CUST1470,LED Lamp,Home,Oceania,New Zealand,6,2635.74
+ORD100389,06/26/2023,CUST1624,Jeans,Apparel,Europe,UK,3,680.43
+ORD100390,09/04/2023,CUST1230,Water Bottle,Home,Asia,Japan,6,1018.74
+ORD100391,09/28/2024,CUST1324,Jeans,Apparel,Asia,Japan,3,2241.87
+ORD100392,07/15/2023,CUST1294,Laptop Sleeve,Electronics,Oceania,New Zealand,2,1434.26
+ORD100393,03/19/2024,CUST1838,Coffee Maker,Home,Europe,Germany,2,76.88
+ORD100394,06/11/2022,CUST1354,LED Lamp,Home,South America,Chile,1,208.87
+ORD100395,09/08/2024,CUST1219,Standing Desk,Furniture,Oceania,New Zealand,1,746.75
+ORD100396,07/11/2023,CUST1140,Laptop Sleeve,Electronics,Oceania,Australia,3,593.25
+ORD100397,12/23/2024,CUST1231,Smartphone Case,Electronics,Europe,UK,2,169.32
+ORD100398,11/08/2023,CUST1734,Jeans,Apparel,North America,Mexico,3,1853.28
+ORD100399,01/11/2022,CUST1987,Running Shoes,Footwear,Europe,Germany,4,2096.2
+ORD100400,09/01/2024,CUST1488,Smartphone Case,Electronics,Europe,Germany,2,520.66
+ORD100401,05/02/2022,CUST1929,Notebook,Office Supplies,North America,Mexico,4,1845.76
+ORD100402,12/31/2024,CUST1756,Bluetooth Speaker,Electronics,North America,USA,3,1011.66
+ORD100403,12/27/2022,CUST1956,LED Lamp,Home,North America,Canada,2,1262.86
+ORD100404,01/17/2023,CUST1959,Bluetooth Speaker,Electronics,Asia,India,2,24.74
+ORD100405,08/08/2022,CUST1950,Coffee Maker,Home,Asia,China,2,1582.66
+ORD100406,12/09/2024,CUST1505,LED Lamp,Home,Europe,France,5,1885.4
+ORD100407,01/30/2023,CUST1828,Laptop Sleeve,Electronics,Asia,India,4,2344.96
+ORD100408,06/11/2023,CUST1735,Office Chair,Furniture,North America,Mexico,3,819.0
+ORD100409,08/28/2023,CUST1581,Smartphone Case,Electronics,Europe,UK,4,1962.84
+ORD100410,04/10/2024,CUST1846,T-shirt,Apparel,Oceania,New Zealand,3,221.88
+ORD100411,07/15/2022,CUST1189,Office Chair,Furniture,South America,Argentina,7,5242.86
+ORD100412,01/14/2022,CUST1267,T-shirt,Apparel,Europe,Germany,2,1208.48
+ORD100413,11/07/2023,CUST1309,Dress Shoes,Footwear,Oceania,Australia,3,638.79
+ORD100414,01/07/2024,CUST1709,Standing Desk,Furniture,North America,Mexico,1,98.99
+ORD100415,09/21/2023,CUST1163,T-shirt,Apparel,Oceania,New Zealand,2,1107.56
+ORD100416,08/28/2023,CUST1376,Dress Shoes,Footwear,Europe,UK,1,766.1
+ORD100417,09/06/2024,CUST1156,Jeans,Apparel,Oceania,New Zealand,4,1342.4
+ORD100418,08/22/2024,CUST1775,Running Shoes,Footwear,Europe,UK,4,2183.48
+ORD100419,06/17/2022,CUST1538,Jeans,Apparel,Oceania,New Zealand,4,268.36
+ORD100420,08/18/2022,CUST1063,Pen Set,Office Supplies,Oceania,Australia,7,3222.1
+ORD100421,11/03/2022,CUST1168,Coffee Maker,Home,Oceania,New Zealand,2,194.82
+ORD100422,02/25/2023,CUST1734,Dress Shoes,Footwear,South America,Brazil,3,2158.86
+ORD100423,07/01/2024,CUST1828,Wireless Mouse,Electronics,South America,Brazil,2,826.06
+ORD100424,07/24/2024,CUST1577,Wireless Mouse,Electronics,Oceania,New Zealand,3,1619.55
+ORD100425,09/24/2023,CUST1740,Wireless Mouse,Electronics,South America,Argentina,4,2616.32
+ORD100426,03/23/2023,CUST1592,Laptop Sleeve,Electronics,North America,Canada,4,1115.6
+ORD100427,05/11/2022,CUST1554,Wireless Mouse,Electronics,North America,Canada,2,60.46
+ORD100428,04/17/2024,CUST1184,Notebook,Office Supplies,Europe,France,3,2348.31
+ORD100429,05/10/2024,CUST1383,LED Lamp,Home,South America,Argentina,4,2785.4
+ORD100430,02/13/2024,CUST1384,Laptop Sleeve,Electronics,Oceania,Australia,3,1573.68
+ORD100431,12/14/2023,CUST1121,Office Chair,Furniture,Oceania,New Zealand,3,1276.29
+ORD100432,04/02/2023,CUST1854,Wireless Mouse,Electronics,North America,Canada,3,1119.27
+ORD100433,05/18/2024,CUST1544,T-shirt,Apparel,Europe,UK,3,1113.6
+ORD100434,11/14/2022,CUST1282,Standing Desk,Furniture,North America,USA,1,648.54
+ORD100435,05/08/2024,CUST1629,Notebook,Office Supplies,North America,USA,5,844.15
+ORD100436,07/26/2022,CUST1608,Wireless Mouse,Electronics,South America,Chile,2,1078.52
+ORD100437,04/10/2022,CUST1250,Bluetooth Speaker,Electronics,North America,Canada,1,353.98
+ORD100438,03/21/2023,CUST1772,Pen Set,Office Supplies,North America,USA,2,811.2
+ORD100439,08/16/2023,CUST1239,Pen Set,Office Supplies,Oceania,New Zealand,4,1856.36
+ORD100440,10/19/2023,CUST1242,Water Bottle,Home,Europe,France,4,1677.56
+ORD100441,04/26/2024,CUST1307,Water Bottle,Home,North America,Mexico,3,2277.21
+ORD100442,12/25/2022,CUST1641,Smartphone Case,Electronics,South America,Chile,1,399.02
+ORD100443,12/07/2023,CUST1964,Smartphone Case,Electronics,South America,Chile,3,775.17
+ORD100444,05/02/2024,CUST1418,Office Chair,Furniture,Asia,China,2,302.36
+ORD100445,08/27/2024,CUST1246,Pen Set,Office Supplies,Europe,Germany,4,2747.0
+ORD100446,10/23/2022,CUST1825,Jeans,Apparel,North America,Mexico,2,666.16
+ORD100447,05/03/2024,CUST1570,Running Shoes,Footwear,Europe,Germany,4,792.28
+ORD100448,02/21/2023,CUST1338,Smartphone Case,Electronics,North America,Canada,2,1356.94
+ORD100449,07/09/2022,CUST1548,Bluetooth Speaker,Electronics,Europe,UK,4,873.72
+ORD100450,03/22/2022,CUST1894,Laptop Sleeve,Electronics,Europe,France,3,1742.46
+ORD100451,03/21/2023,CUST1490,Standing Desk,Furniture,Asia,China,6,4594.98
+ORD100452,02/01/2022,CUST1216,LED Lamp,Home,Europe,France,1,98.27
+ORD100453,09/07/2024,CUST1936,Standing Desk,Furniture,Oceania,Australia,5,1601.6
+ORD100454,05/06/2023,CUST1565,Coffee Maker,Home,Asia,China,1,375.67
+ORD100455,01/06/2024,CUST1315,Water Bottle,Home,Asia,Japan,3,2120.52
+ORD100456,08/12/2024,CUST1100,Notebook,Office Supplies,South America,Argentina,2,1463.78
+ORD100457,01/30/2024,CUST1320,T-shirt,Apparel,North America,Mexico,2,1383.9
+ORD100458,10/26/2022,CUST1016,Water Bottle,Home,Oceania,New Zealand,3,719.04
+ORD100459,02/06/2023,CUST1337,Standing Desk,Furniture,South America,Chile,1,667.52
+ORD100460,10/19/2024,CUST1563,Smartphone Case,Electronics,Asia,China,1,611.87
+ORD100461,09/27/2024,CUST1989,Bluetooth Speaker,Electronics,South America,Argentina,3,416.25
+ORD100462,12/23/2023,CUST1173,Office Chair,Furniture,Oceania,New Zealand,4,605.28
+ORD100463,05/01/2022,CUST1536,Wireless Mouse,Electronics,North America,Mexico,1,43.57
+ORD100464,01/14/2022,CUST1422,Office Chair,Furniture,Europe,UK,2,1134.4
+ORD100465,01/19/2022,CUST1223,Running Shoes,Footwear,South America,Argentina,3,159.18
+ORD100466,09/16/2024,CUST1675,Jeans,Apparel,North America,USA,4,1712.44
+ORD100467,04/22/2024,CUST1012,Wireless Mouse,Electronics,Oceania,New Zealand,1,430.91
+ORD100468,08/11/2023,CUST1017,Running Shoes,Footwear,South America,Brazil,3,270.24
+ORD100469,07/17/2022,CUST1536,Office Chair,Furniture,Europe,UK,2,995.46
+ORD100470,06/01/2023,CUST1834,Coffee Maker,Home,Asia,China,1,67.82
+ORD100471,04/11/2024,CUST1470,Dress Shoes,Footwear,Europe,France,2,369.12
+ORD100472,06/15/2022,CUST1669,Pen Set,Office Supplies,North America,USA,4,1308.8
+ORD100473,02/12/2024,CUST1565,Jeans,Apparel,North America,Mexico,2,25.02
+ORD100474,12/17/2022,CUST1084,Jeans,Apparel,South America,Chile,3,1885.74
+ORD100475,07/15/2022,CUST1916,Running Shoes,Footwear,North America,USA,2,346.16
+ORD100476,08/31/2024,CUST1277,Wireless Mouse,Electronics,North America,Mexico,6,4445.04
+ORD100477,03/09/2022,CUST1183,LED Lamp,Home,Asia,India,2,1538.74
+ORD100478,10/23/2022,CUST1770,Pen Set,Office Supplies,South America,Brazil,5,1214.65
+ORD100479,05/08/2023,CUST1580,Pen Set,Office Supplies,South America,Chile,3,2153.22
+ORD100480,11/11/2023,CUST1393,Notebook,Office Supplies,Europe,France,1,580.71
+ORD100481,10/22/2024,CUST1763,Coffee Maker,Home,North America,USA,2,704.98
+ORD100482,06/05/2022,CUST1348,Dress Shoes,Footwear,Oceania,New Zealand,4,3101.16
+ORD100483,10/31/2023,CUST1030,Smartphone Case,Electronics,Asia,China,2,790.06
+ORD100484,12/30/2023,CUST1566,T-shirt,Apparel,South America,Brazil,4,2181.44
+ORD100485,02/18/2024,CUST1087,Notebook,Office Supplies,Oceania,New Zealand,4,2557.8
+ORD100486,05/31/2022,CUST1084,Water Bottle,Home,Europe,Germany,2,1141.56
+ORD100487,11/12/2022,CUST1757,T-shirt,Apparel,Asia,China,1,89.71
+ORD100488,01/11/2022,CUST1965,Water Bottle,Home,South America,Argentina,1,610.27
+ORD100489,07/29/2022,CUST1135,Laptop Sleeve,Electronics,Europe,Germany,2,723.66
+ORD100490,11/15/2024,CUST1417,Laptop Sleeve,Electronics,North America,USA,5,1431.8
+ORD100491,07/10/2022,CUST1611,Dress Shoes,Footwear,Asia,China,3,44.43
+ORD100492,04/27/2024,CUST1397,Notebook,Office Supplies,North America,Mexico,4,2885.6
+ORD100493,05/13/2023,CUST1585,Running Shoes,Footwear,Europe,France,4,1230.72
+ORD100494,10/12/2022,CUST1275,Water Bottle,Home,Asia,China,2,242.04
+ORD100495,12/09/2022,CUST1445,Water Bottle,Home,South America,Argentina,3,1169.88
+ORD100496,06/07/2022,CUST1369,Water Bottle,Home,Europe,France,3,1505.7
+ORD100497,02/05/2023,CUST1468,Laptop Sleeve,Electronics,Europe,Germany,3,31.14
+ORD100498,03/21/2024,CUST1340,Pen Set,Office Supplies,Oceania,New Zealand,3,1932.72
+ORD100499,11/06/2023,CUST1450,Coffee Maker,Home,South America,Chile,3,2338.53
+ORD100500,10/06/2022,CUST1307,Coffee Maker,Home,Oceania,Australia,4,1543.24
